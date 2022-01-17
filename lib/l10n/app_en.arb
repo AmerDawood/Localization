@@ -1,0 +1,18 @@
+{
+  "app_name": "localization App",
+  "login": "Login",
+  "email": "Email address",
+  "password": "password",
+  "welcome_back": "Welcome back ..",
+  "login_hint": "Enter email & password",
+  "forget": "Forget Password?",
+  "screenOneAppBar": "Screen One",
+  "appBarTitle": "Login Screen",
+  "name" : "Amer Dawood",
+  "description": "Iam Amer Dawood ,Iam study computer science at IUG   my age is 19 ,I live in gaza and i have an experience at Mobile App Development"
+
+
+
+
+
+}
