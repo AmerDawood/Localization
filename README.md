@@ -1,6 +1,10 @@
-# localization + Provider + Shared Preference
 
-#### A new Flutter project.
+# Using
+## - Localization
+## - Provider 
+## - Shared Preference
+
+
 
 
 
